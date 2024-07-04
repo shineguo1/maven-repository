@@ -3,21 +3,21 @@
   <groupId>org.xj.commons</groupId>
   <artifactId>common-web3j</artifactId>
   <versioning>
-    <lastUpdated>20240703075130</lastUpdated>
+    <lastUpdated>20240704105206</lastUpdated>
     <snapshot>
-      <timestamp>20240703.075130</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20240704.105206</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>3.0-20240703.075130-2</value>
-        <updated>20240703075130</updated>
+        <value>3.0-20240704.105206-3</value>
+        <updated>20240704105206</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>3.0-20240703.075130-2</value>
-        <updated>20240703075130</updated>
+        <value>3.0-20240704.105206-3</value>
+        <updated>20240704105206</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
