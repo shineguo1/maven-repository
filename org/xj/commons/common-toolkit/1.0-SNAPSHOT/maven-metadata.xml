@@ -3,21 +3,21 @@
   <groupId>org.xj.commons</groupId>
   <artifactId>common-toolkit</artifactId>
   <versioning>
-    <lastUpdated>20240703075130</lastUpdated>
+    <lastUpdated>20240708022904</lastUpdated>
     <snapshot>
-      <timestamp>20240703.075130</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20240708.022904</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20240703.075130-2</value>
-        <updated>20240703075130</updated>
+        <value>1.0-20240708.022904-1</value>
+        <updated>20240708022904</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20240703.075130-2</value>
-        <updated>20240703075130</updated>
+        <value>1.0-20240708.022904-1</value>
+        <updated>20240708022904</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
