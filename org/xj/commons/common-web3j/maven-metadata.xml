@@ -3,10 +3,12 @@
   <groupId>org.xj.commons</groupId>
   <artifactId>common-web3j</artifactId>
   <versioning>
+    <release>4.1-BETA</release>
     <versions>
       <version>3.0-SNAPSHOT</version>
       <version>4.0-SNAPSHOT</version>
+      <version>4.1-BETA</version>
     </versions>
-    <lastUpdated>20240829063552</lastUpdated>
+    <lastUpdated>20240918102339</lastUpdated>
   </versioning>
 </metadata>
